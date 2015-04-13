@@ -1,0 +1,3 @@
+This program works fine without error.
+
+The most difficult part is to program the logic in dynamic programing and find the method to break the problem into smaller pieces. Also, the runtime of part one should be polynomial O(n^2) though the dictionary is sorted in three layers, initial letter, length of word and the word list. Part two should also be polynomial O(n^2) sine it calculates cost into a 2D table, which needs O(n^2) to run through.
